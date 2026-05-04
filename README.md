@@ -32,6 +32,9 @@ intro-llm-fc-unam-2026-2/
 ├── papers/               # Artículos científicos y lecturas del curso
 └── .gitignore           # Archivos y directorios a ignorar
 ```
+## Link Datos
+
+....//
 
 ## Licencia
 
